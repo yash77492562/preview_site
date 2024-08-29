@@ -540,6 +540,10 @@ Medium (md): 768px - 991.98px */
     width: 100%;
     height: 100px;
   } 
+  .about-para{
+    width: 100%;
+    padding-bottom: .5em;
+  }
   /* ###########################video################# */
   .view-30{
     min-height: 120px;
