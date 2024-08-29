@@ -535,6 +535,11 @@ Medium (md): 768px - 991.98px */
   .arrow-container{
     top: 90%;
   }
+	
+  .common_style{
+    width: 100%;
+    height: 100px;
+  } 
   /* ###########################video################# */
   .view-30{
     min-height: 120px;
