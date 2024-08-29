@@ -105,7 +105,7 @@ $(document).ready(function() {
   let $text = $('a,i,.USA');
   let imageElement = $("#nav-image");
   let oldElement = imageElement.attr("src");
-  let newImageSrc = "./image/newlogo.webp";
+  let newImageSrc = "../image/newlogo.webp";
   
   
   // Get the initial scroll position
