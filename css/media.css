@@ -84,7 +84,7 @@ Extra Large (xl): 1200px and larger */
     }
     /* ####################################Contact################ */
     .bg-contact-page{
-	    max-height:645px;
+	    max-height:900px;
     }
     .contact-h1{
         padding-top: 2rem;
@@ -425,7 +425,7 @@ Medium (md): 768px - 991.98px */
   /* ####################################Contact################ */
 
  .bg-contact-page{
-     max-height:645px;
+     max-height:900px;
   }
   .contact-details1{
     margin-top: .3rem;
