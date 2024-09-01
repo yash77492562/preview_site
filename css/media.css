@@ -203,14 +203,9 @@ Medium (md): 768px - 991.98px */
   .about-para{
     margin: 0;
   }
-  /* ###########################video################# */
-  .video-image{
-    max-width: 200px;
-    max-height:200px ;
-  }
   /* ######################################Team########################*/
   .view-30{
-    min-height: 100px !important;
+    max-height: 100px !important;
   }
   /* ######################################Team########################*/
   #Service{
