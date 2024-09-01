@@ -137,6 +137,7 @@ body{
 /* #############################Home##################### */
 .home {
   background-image: url(../image/algotrading.webp);
+  max-height:645px;
 }
 .home-container{
   max-width: 60%;
