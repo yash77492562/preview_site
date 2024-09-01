@@ -214,7 +214,7 @@ Medium (md): 768px - 991.98px */
   }
   /* ######################################Team########################*/
   .view-30{
-    min-height: 200px;
+    min-height: 120px;
   }
   /* ######################################Team########################*/
   #Service{
@@ -271,6 +271,9 @@ Medium (md): 768px - 991.98px */
 .name-div{
   width: 100%;
 }
+  #contact{
+    height:fit-contant;
+  }
   .bg-contact-page{
     max-height:fit-content;
     height:900px;
