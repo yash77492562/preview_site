@@ -271,6 +271,10 @@ Medium (md): 768px - 991.98px */
 .name-div{
   width: 100%;
 }
+  .bg-contact-page{
+    max-height:fit-content;
+    height:900px;
+  }
 .robot{
   left: 38%;
   height: 20%;
