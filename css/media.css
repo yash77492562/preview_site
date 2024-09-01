@@ -120,7 +120,7 @@ Extra Large (xl): 1200px and larger */
     max-height: 645px;
   }
   .home-container{
-    width:35%;
+    width:40%;
   }
   .bi-list{
     display: block;
@@ -194,8 +194,8 @@ Medium (md): 768px - 991.98px */
     min-height: 584px;
   }
   .home-container img{
-    width: 280px ;
-    height: 300px;
+    width: 500px ;
+    height: 340px;
   }
   /* #################################About###################### */
   #About{
