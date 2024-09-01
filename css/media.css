@@ -560,8 +560,8 @@ Medium (md): 768px - 991.98px */
     height: 120px;
   }
    .bg-contact-page{
-    max-height: 900px;
-    height: 900px;
+    max-height: fit-content;
+    height: 130vh;
   }
 }
 @media (max-width: 309px){
@@ -600,7 +600,7 @@ Medium (md): 768px - 991.98px */
   } 
   
    .bg-contact-page{
-    max-height: 900px;
-    height: 900px;
+    max-height: fit-content;
+    height: 150vh;
   }
 }
