@@ -1,3 +1,7 @@
+$(document).ready(function(){
+  alert($(window).innerHeight() + ", " + $(window).innerWidth());
+});
+
 $(document).ready(function() {
   $(window).on('scroll', function() {
       var serviceSectionTop = $('#Service').offset().top;
