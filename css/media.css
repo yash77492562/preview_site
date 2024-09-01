@@ -22,7 +22,7 @@ Extra Large (xl): 1200px and larger */
     /* #############################home############################### */
     #home{
       min-height: 292px;
-      max-height: 950px;
+      max-height: 645px;
     }
     .home-container{
       border: 1px solid red;
@@ -83,6 +83,9 @@ Extra Large (xl): 1200px and larger */
         width: 90%;
     }
     /* ####################################Contact################ */
+    #Contact{
+	    max-height:645px;
+    }
     .contact-h1{
         padding-top: 2rem;
     } 
@@ -245,6 +248,9 @@ Medium (md): 768px - 991.98px */
     width: 100%;
   }
   /* ####################################Contact################ */
+   #Contact{
+	    max-height:645px;
+    }
   .contact-h1{
     padding-top: 2rem;
   } 
@@ -422,7 +428,7 @@ Medium (md): 768px - 991.98px */
   }
   /* ####################################Contact################ */
   #Contact{
-    height: fit-content;
+    height: 645px;
   }
   .bg-contact-page{
     max-height: fit-content;
