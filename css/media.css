@@ -271,8 +271,8 @@ Medium (md): 768px - 991.98px */
 .name-div{
   width: 100%;
 }
-  #contact{
-    height:fit-contant;
+  #Contact{
+    height:900px;
   }
   .bg-contact-page{
     max-height:fit-content;
@@ -436,7 +436,7 @@ Medium (md): 768px - 991.98px */
   }
   /* ####################################Contact################ */
   #Contact{
-    height: fit-content;
+    height: 900px;
   }
   .bg-contact-page{
     max-height: fit-content;
@@ -566,6 +566,9 @@ Medium (md): 768px - 991.98px */
     min-height: 120px;
     height: 120px;
   }
+  #Contact{
+    height: 900px;
+  }
    .bg-contact-page{
     max-height: fit-content;
     height: 900px;
@@ -605,7 +608,9 @@ Medium (md): 768px - 991.98px */
   .contact-h3{
     width: 100%;
   } 
-  
+  #Contact{
+    height: 900px;
+  }
    .bg-contact-page{
     max-height: fit-content;
     height: 900px;
