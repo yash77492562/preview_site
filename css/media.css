@@ -83,7 +83,7 @@ Extra Large (xl): 1200px and larger */
         width: 90%;
     }
     /* ####################################Contact################ */
-    #Contact{
+    .bg-contact-page{
 	    max-height:645px;
     }
     .contact-h1{
@@ -243,7 +243,8 @@ Medium (md): 768px - 991.98px */
     width: 100%;
   }
   /* ####################################Contact################ */
-   #Contact{
+   
+    .bg-contact-page{
 	    max-height:645px;
     }
   .contact-h1{
@@ -422,12 +423,9 @@ Medium (md): 768px - 991.98px */
     width: 100%;
   }
   /* ####################################Contact################ */
-  #Contact{
-    height: 645px;
-  }
-  .bg-contact-page{
-    max-height: fit-content;
-    height: 95vh;
+
+ .bg-contact-page{
+     max-height:645px;
   }
   .contact-details1{
     margin-top: .3rem;
@@ -548,6 +546,10 @@ Medium (md): 768px - 991.98px */
     width: 100%;
     padding-bottom: .5em;
   }
+	
+.bg-contact-page{
+	    max-height:645px;
+    }
   /* ###########################video################# */
   .view-30{
     min-height: 120px;
