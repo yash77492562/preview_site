@@ -433,7 +433,7 @@ Medium (md): 768px - 991.98px */
   }
   .bg-contact-page{
     max-height: fit-content;
-    height: 80vh;
+    height: 900px;
   }
   .contact-details1{
     margin-top: .3rem;
@@ -561,7 +561,7 @@ Medium (md): 768px - 991.98px */
   }
    .bg-contact-page{
     max-height: fit-content;
-    height: 130vh;
+    height: 900px;
   }
 }
 @media (max-width: 309px){
@@ -601,6 +601,6 @@ Medium (md): 768px - 991.98px */
   
    .bg-contact-page{
     max-height: fit-content;
-    height: 150vh;
+    height: 900px;
   }
 }
