@@ -198,7 +198,7 @@ Medium (md): 768px - 991.98px */
     height: fit-content;
   }
   .about-container{
-    width: 100%;
+    width: 80%;
   }
   .about-para{
     margin: 0;
