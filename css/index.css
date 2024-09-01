@@ -286,6 +286,7 @@ body{
 /* #########################################################Contact######################## */
 #Contact{
   background-image: url(../image/office.jpg);
+  max-height:645px;
 }
 .content-item{
   width: 22%;
